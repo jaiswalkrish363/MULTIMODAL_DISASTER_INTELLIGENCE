@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+numpy
+pandas
+scikit-learn
+Pillow
+matplotlib
+folium
